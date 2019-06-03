@@ -26,7 +26,7 @@ y=[1.2,2,2.4,3.5,3.5]
 
 polyfit1(x,y,1)
 
-""" def polyfit2(x,y,n):
+ def polyfit2(x,y,n):
 
     def inv(A):
         return np.linalg.inv(A)
@@ -52,4 +52,4 @@ polyfit1(x,y,1)
 x=[1,2,3]
 y=[1,4,9]
 
-polyfit2(x,y,2)"""
+polyfit2(x,y,2)
